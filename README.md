@@ -27,7 +27,7 @@ Just use: `python tcp_port_scanner.py`
 You can install pyinstaller with: `pip install pyinstaller` <br/>
 And use `pyinstaller  tcp_port_scanner.py`
 
-It'll convert this project in a executable. Therefore, you can add this new executable as a environment variable on PATH and use it at any place on your terminal 😀
+It'll convert this project to an executable. Therefore, you can add this new executable as a environment variable on PATH and use it at any place on your terminal 😀
 
 ## Tech Stack
 
